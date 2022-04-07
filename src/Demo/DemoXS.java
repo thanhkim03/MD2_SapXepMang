@@ -1,6 +1,6 @@
 package Demo;
 
-public class SXNoiBot {
+public class DemoXS {
 //   hàm để in ra từng giá trị khi sắp xếp
     public static void printArray(int no,int[] a){
         System.out.print( "lần "+no+": ");
